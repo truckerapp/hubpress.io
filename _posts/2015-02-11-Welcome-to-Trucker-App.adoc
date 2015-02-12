@@ -1,0 +1,3 @@
+= Welcome to Trucker App
+
+Trucker App will be coming to a mobile device near you soon
